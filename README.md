@@ -11,8 +11,8 @@ I am Fakhrir Rahman, a graduate of Informatics at Ahmad Dahlan University. 🎓 
 - 🌟 **Current Focus:** Exploring the intersection of technology and real-world solutions
 
 #### Let's Connect:
-- 📫 **Contact:** [Email](mailto:ibnuzaman2133@gmail.com)
-- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ibnu-zaman-35911a1b4/)
+- 📫 **Contact:** [Email](mailto:fakhrirrahman7@gmail.com)
+- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/fakhrirrahman/)
 
 
 
