@@ -1,6 +1,6 @@
 ### Hola! 👋
 
-I am Fakhrir Rahman, a graduate of Informatics at Ahmad Dahlan University. 🎓 I also graduated from Bangkit Academy, with specialization in Cloud Computing, internship (MSIB) at Telkom Indonesia backend role. 
+I am Fakhrir Rahman, a fresh graduate of Informatics at Ahmad Dahlan University. 🎓 I also graduated from Bangkit Academy, with specialization in Cloud Computing, internship (MSIB) at Telkom Indonesia backend role. 
 
 #### About Me:
 - 🌐 **Education:** Informatics student at Ahmad Dahlan University
