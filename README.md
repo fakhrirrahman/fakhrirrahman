@@ -12,7 +12,7 @@ I am Fakhrir Rahman, a graduate of Informatics at Ahmad Dahlan University. 🎓 
 
 #### Let's Connect:
 - 📫 **Contact:** [Email](mailto:fakhrirrahman7@gmail.com)
-- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/fakhrirrahman/)
+- 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/fahrirrahman/)
 
 
 
