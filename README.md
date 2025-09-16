@@ -14,7 +14,7 @@ I am Fakhrir Rahman, a fresh graduate of Informatics at Ahmad Dahlan University.
 - 📫 **Contact:** [Email](mailto:fakhrirrahman7@gmail.com)
 - 🔗 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/fahrirrahman/)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=fakhrirrahman&show_icons=true)
+[![github stats](https://github-readme-stats.vercel.app/api?username=fakhrirrahman&show_icons=true)](https://github-readme-stats.vercel.app/api?username=fakhrirrahman&show_icons=true&count_private=true&include_all_commits=true)
 
 Looking forward to collaborating and learning together! Feel free to explore my projects. 🚀
 
