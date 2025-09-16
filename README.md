@@ -51,12 +51,6 @@
 <img src="https://skillicons.dev/icons?i=laravel,svelte,react,nodejs,express,docker,mysql" />
 </div>
 
-**Design & 2D/3D Tools**
-<br/>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=figma,blender,aftereffects" />
-</div>
-
 ---
 
 ## Now Playing 🎧
