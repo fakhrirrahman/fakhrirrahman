@@ -9,68 +9,57 @@
 </h1>
 
 <div align="center">
+  <a href="mailto:fakhrirrahman7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="email logo" />
+  </a>
   <a href="https://www.linkedin.com/in/fahrirrahman/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/fakhrirrahman" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram logo" />
+  <a href="https://github.com/fakhrirrahman" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="github logo" />
   </a>
-  <a href="https://discord.com/users/fakhrirrahman" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/fakhrirrahman/fakhrirrahman/blob/main/gif/profile.gif" alt="Profile Gif" width="720px"/>
 </div>
 
 ---
 
 ## 👤 About Me
-<div align="center">
-  <img src="https://github.com/fakhrirrahman/fakhrirrahman/blob/main/gif/anime.gif" width="100px" />
-</div>
+- 🎓 **Graduate:** Informatics at Universitas Ahmad Dahlan (GPA 3.66)  
+- 🚀 **Bangkit Academy 2023:** Cloud Computing Cohort  
+- 💼 **Experience:**  
+  - Fullstack Developer — AWBS Network (Facebook Marketing API, Laravel 11, Cron Jobs, API integration)  
+  - Freelance Fullstack — PT Mutiara Nasional Line (Laravel 12, FilamentPHP, Redis, Midtrans, Spatie Permission, API)  
+  - Fullstack Developer (Thesis) — PCM Depok (Laravel, FilamentPHP, GitHub Actions CI/CD)  
+  - Backend Intern — PT Telkom Indonesia (Laravel, Inertia.js, Svelte, Agile/Scrum)  
+  - Backend Intern — PT Sineas Kreatif Indonesia (NestJS, Swagger, JWT, Clean Architecture)  
+  - Freelance Backend — Ruang Melamun, Bias Promosindo Jaya, Farida MUA  
 
-- 🌐 **Backend Developer**
-- 🛡 **Privacy Enthusiast**
-- 🎓 **Bachelor of Informatics | Cloud Computing Intern @Telkom Indonesia**
-
----
-
-## 🛠 Languages & Tools
-
-**Languages**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,php,python,go,java" />
-</div>
-
-**Frameworks & Libraries**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,svelte,react,nodejs,express,docker,mysql" />
-</div>
+- 🌐 **Focus:** Backend Development (Laravel, PHP, REST API, MySQL)  
+- 🔒 **Values:** Building scalable, efficient, and secure systems  
 
 ---
 
-## 🎧 Now Playing
-[![Spotify](https://spotify-now-playing-five-orcin.vercel.app/api/spotify)](https://open.spotify.com/user/fakhrirrahman)
+## 🛠 Tech Stack
+
+**Languages & Frameworks**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,typescript,nodejs,express,react,svelte,python,go,mysql,docker,redis" />
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fakhrirrahman&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fakhrirrahman&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
 </div>
 
 ## 🔥 Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fakhrirrahman&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=fakhrirrahman&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
 ## 📌 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhrirrahman&layout=compact&theme=radical&show_icons=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhrirrahman&layout=compact&theme=radical&show_icons=true" />
 </div>
 
 ## 🏆 Trophies
@@ -80,4 +69,4 @@
 
 ---
 
-<p align="center">✨ Looking forward to collaborate & learn together! 🚀</p>
+<p align="center">✨ Live with integrity, work with passion, and be good to others 🚀</p>
