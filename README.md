@@ -52,11 +52,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fakhrirrahman&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
 </div>
 
-## 🔥 Streak
-<div align="center">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=fakhrirrahman&theme=radical&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
-
 ## 📌 Top Languages
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=fakhrirrahman&layout=compact&theme=radical&show_icons=true" />
