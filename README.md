@@ -23,7 +23,6 @@
 ---
 
 ## 👤 About Me
-- 🎓 **Graduate:** Informatics at Universitas Ahmad Dahlan (GPA 3.66)  
 - 🚀 **Bangkit Academy 2023:** Cloud Computing Cohort  
 - 💼 **Experience:**  
   - Fullstack Developer — AWBS Network (Facebook Marketing API, Laravel 11, Cron Jobs, API integration)  
